@@ -1,8 +1,8 @@
-# Portfolio-2021 : <a target="_blank" href="https://www.shawncharles.com">Visit Here</a>
+# Portfolio-2022 : <a target="_blank" href="https://www.shockleyje.com/">Visit Here</a>
 
-<a target="_blank" href="https://www.shawncharles.com">
-<img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true"></img>
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
+<a target="_blank" href="https://www.shockleyje.com/">
+<img source="/ShockleyJE/devportfolio/blob/master/images/transparentHeadshot.JPG?raw=true"></img>
+<img src="https://github.com/ShockleyJE/devportfolio/blob/master/images/transparentHeadshot.JPG" width="50%" alt="Portfolio"/>
 </a>
 
 ### Portfolio Site including links to my projects and ways to get in contact with me.
@@ -19,35 +19,3 @@ When I improve this project, I would start by updating the spring and summer ami
 ## Lessons Learned:
 
 Seperation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions
-
-
-
-
-## More Projects
-
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
-        <br />
-      <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
-            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Travelara.org"/>
-        </a>
-    </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Rigley2-"FlappyBug"</a>
-      <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
-        </a>
-    </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Matching Card Game</a>
-        <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
-        </a>
-    </td>
-  </tr>
-</table>
